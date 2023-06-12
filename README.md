@@ -1,1 +1,1 @@
-# ascella-logo-variant
+# My individual logo variant for Ascella
