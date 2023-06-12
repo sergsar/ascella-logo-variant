@@ -1,0 +1,1 @@
+# ascella-logo-variant
